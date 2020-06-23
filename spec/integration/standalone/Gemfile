@@ -11,7 +11,7 @@
 # and remove cruft that may interfere with the build.
 source 'https://rubygems.org'
 
-gem 'activerecord', '3.2.8'
+gem 'activerecord', '4.2.11.3'
 
 gem 'sqlite3'
 
